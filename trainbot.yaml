@@ -1,0 +1,39 @@
+posts:
+  - The next station is [station].
+  - Customers are reminded that the exit buttons are in the middle of the doors.
+  - Please stand behind the yellow safety line until the train has stopped.
+  - Doors closing. Please stand clear.
+  - Now arriving at [station] station. If this is your station, prepare to disembark.
+  - "[station] station. Mind the gap."
+  - An express train will pass this station on platform [1-4] in approximately [2-3] minutes. Please stand behind the yellow safety line.
+  #- The train arriving on platform [1-4] is a [train_line] train, stopping all stations.
+  #- This is a [train_line] train, stopping all stations.
+  - Attention customers. We all have an important role to play in keeping the community safe and healthy. Please use your elbow to open the train doors, and leave a gap between yourself and others both on the train and platform.
+  - Don't forget to practise good hygiene, stay at home if you are unwell, and get tested if you have COVID-19 symptoms. For the most up-to-date information, visit the Queensland Health website.
+
+stations:
+  - Chelmer
+  - Graceville
+  - Indooroopilly
+  - Toowong
+  - Taringa
+  - Auchenflower
+  - Milton
+  - Roma Street
+  - Central
+  - Fortitude Valley
+  - Bowen Hills
+  - Eagle Junction
+  - Northgate
+  - South Brisbane
+  - Southbank
+  - Petrie
+  - Dakabin
+  - Narangba
+  - Burpengary
+  - Morayfield
+  - Caboolture
+  - Boggo Road
+  - Altandi
+  - Loganlea
+  - Beenleigh
